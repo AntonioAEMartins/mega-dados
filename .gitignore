@@ -1,0 +1,37 @@
+# Ignore database files
+*.sqlite
+*.db
+*.db3
+*.sql
+
+# Ignore Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyz
+*.pyw
+*.py~
+
+# Ignore Spark files
+*.log
+*.out
+
+# Ignore SQL files
+*.sql
+
+# Ignore data files
+*.csv
+*.xlsx
+*.xls
+
+# Ignore any file in a directory named 'data'
+/data/
+
+# Ignore any file with a tilde (~) at the end
+*~
+
+# Ignore any file with a hash (#) at the end
+*#
