@@ -35,3 +35,5 @@ __pycache__/
 
 # Ignore any file with a hash (#) at the end
 *#
+Projetos/23-2-md-proj-sql-bluepointfit/
+Projetos/23-2-projeto-spark-classificador-bayes-spark-mgd/
